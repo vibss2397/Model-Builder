@@ -1,4 +1,4 @@
-# Model-Builder
+# nn-lab
 
 ## 1. This project allows user to build their own neural networks in the browser, train it using tensorflow.js, check model stats such as loss and then download the model or test its performance.
 ## 2. The user can change default hyperparameters,look at the training loss and download the trained model.
